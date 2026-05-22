@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Akhilesh Kumar Nishad
-**A passionate  ||  Full Stack SoftWare Developer ||🔥 MERN Stack Developer **
+**A passionate  ||  Full Stack SoftWare Developer ||🔥 MERN\PERN Stack Developer **
 
 Email Me 👉 ✉️ **akhileshnishad287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- 🌱 **I’m currently learning: MERN Stack Developer** 
+- 🌱 **I’m currently learning: MERN|PERN Stack Developer** 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** akhilnisahd45@gmail.com
 - 😄 **Pronouns:** Akhilesh..
